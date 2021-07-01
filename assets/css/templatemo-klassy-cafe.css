@@ -923,19 +923,22 @@ menu
 }
 
 .card1 {
-  background-image: url(../images/menu-item-01.jpg);
+  background-image: url(../images/Perro-galeria.png);
 }
 .card2 {
-  background-image: url(../images/menu-item-02.jpg);
+  background-image: url(../images/Gato-galeria.png);
 }
 .card3 {
-  background-image: url(../images/menu-item-03.jpg);
+  background-image: url(../images/Conejo-galeria.png);
 }
 .card4 {
-  background-image: url(../images/menu-item-04.jpg);
+  background-image: url(../images/Tortuga-galeria.png);
 }
 .card5 {
-  background-image: url(../images/menu-item-05.jpg);
+  background-image: url(../images/Peces\ galeria.png);
+}
+.card6 {
+  background-image: url(../images/Pajaro-galeria.png);
 }
 
 .info {
